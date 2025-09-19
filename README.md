@@ -24,7 +24,10 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/432ffd91-89e9-498a-ae95-655f179bfe57" />
 
-другие окна
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c34ac652-77bb-4f95-9467-9f907481758a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c309ad11-65c6-4f28-998e-b7afa4c57f2a" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc58c59d-ba64-4034-9e8e-52b18c132de7" />
 
