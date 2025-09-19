@@ -4,4 +4,7 @@
 <h3 align="center">Решение для студентов, чьи карманы совсем пусты.</h3>
 <h3 align="center">Здесь каждый студент может найти кафе и магазины, которые предлагают студенческие скидки.</h3>
 
+<img width="1914" height="1073" alt="image" src="https://github.com/user-attachments/assets/615ca86c-f7c3-47ee-bc4f-02a5fb546a2e" />
+
+
 
