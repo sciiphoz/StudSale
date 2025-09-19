@@ -21,3 +21,13 @@
 <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/e240068c-fb47-4ac3-b301-90e42c34e8d0" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad84d65b-1f2f-4ddd-b154-4e49661a4141" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/432ffd91-89e9-498a-ae95-655f179bfe57" />
+
+другие окна
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc58c59d-ba64-4034-9e8e-52b18c132de7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/840a0cb1-2b0f-4d62-8ac2-5af9b70fa4e5" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30ab1b1f-cf40-44a9-8e1a-3ec08ac35e2f" />
